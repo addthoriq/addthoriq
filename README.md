@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://tenor.com/view/love-live-kumachan-typing-fast-laptop-office-gif-13666529312258917412">
+ <div class="tenor-gif-embed" data-postid="13666529312258917412" data-share-method="host" data-aspect-ratio="1.38462" data-width="100%"><a href="https://tenor.com/view/love-live-kumachan-typing-fast-laptop-office-gif-13666529312258917412">Love Live Kumachan GIF</a>from <a href="https://tenor.com/search/love+live-gifs">Love Live GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - Back-End Engineer | Alumni Bangkit Academy 2023 | Database and Linux Enthusiast
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/view/5yncri5e-liella-love-live-ookuma-wakana-okuma-wakana-gif-481376944804410313">
+<div class="tenor-gif-embed" data-postid="481376944804410313" data-share-method="host" data-aspect-ratio="0.566265" data-width="100%"><a href="https://tenor.com/view/5yncri5e-liella-love-live-ookuma-wakana-okuma-wakana-gif-481376944804410313">5yncri5e Liella GIF</a>from <a href="https://tenor.com/search/5yncri5e-gifs">5yncri5e GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
